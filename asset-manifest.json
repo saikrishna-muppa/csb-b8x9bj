@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/css/main.e27a9ec7.chunk.css",
+    "main.js": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/js/main.a641eccc.chunk.js",
+    "main.js.map": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/js/main.a641eccc.chunk.js.map",
+    "runtime-main.js": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/js/runtime-main.2657ec6a.js",
+    "runtime-main.js.map": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/js/runtime-main.2657ec6a.js.map",
+    "static/css/2.3c96e5fe.chunk.css": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/css/2.3c96e5fe.chunk.css",
+    "static/js/2.a0d5b832.chunk.js": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/js/2.a0d5b832.chunk.js",
+    "static/js/2.a0d5b832.chunk.js.map": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/js/2.a0d5b832.chunk.js.map",
+    "index.html": "https://saikrishna-muppa.github.io/csb-b8x9bj/index.html",
+    "static/css/2.3c96e5fe.chunk.css.map": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/css/2.3c96e5fe.chunk.css.map",
+    "static/css/main.e27a9ec7.chunk.css.map": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/css/main.e27a9ec7.chunk.css.map",
+    "static/js/2.a0d5b832.chunk.js.LICENSE.txt": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/js/2.a0d5b832.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "https://saikrishna-muppa.github.io/csb-b8x9bj/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2657ec6a.js",
+    "static/css/2.3c96e5fe.chunk.css",
+    "static/js/2.a0d5b832.chunk.js",
+    "static/css/main.e27a9ec7.chunk.css",
+    "static/js/main.a641eccc.chunk.js"
+  ]
+}
